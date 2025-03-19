@@ -5,7 +5,7 @@
 	"main": "index.js",
 	"scripts": {
 		"startDev": "nodemon index.js",
-		"startProd": "set NODE_ENV=production && nodemon index.js"
+		"startProd": "set NODE_ENV=production && node index.js"
 	},
 	"author": "Patrick875, Nilacsa",
 	"license": "MIT",
